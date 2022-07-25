@@ -186,6 +186,18 @@
     color: black;
 }
 
+/* website */
+.web{
+    padding: 20px;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    color: var(--text);
+}
+.web p a{
+    text-decoration: underline;
+    color: var(--head);
+}
+
 /* Footer section */
 
 #footer {
